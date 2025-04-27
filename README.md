@@ -1,8 +1,7 @@
 # Applications-of-MDPs-to-investment-related-problems
 
-# Project Title
 
-# Numerical Example: Consumption and Investment Optimization
+## Numerical Example: Consumption and Investment Optimization
 
 ## Description
 This repository contains the code and documentation for implementing a numerical example related to consumption and investment optimization, focusing on the use of two utility functions (Power and Exponential) in Markov Decision Processes (MDPs). The goal is to showcase the results from Chapters **Investment Problems** and **Consumption-Investment Problems** of the dissertation.
