@@ -1,4 +1,4 @@
-# Applications-of-MDPs-to-investment-related-problems
+# Applications of MDPs to investment related problems
 
 
 ## Numerical Example: Consumption and Investment Optimization
